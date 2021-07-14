@@ -11,5 +11,5 @@ As an example consider the following image:
 Now this is the gray scale version with size of **2.2M**:
 ![Gray scale](./gray-scale.png)
 
-But we can reduce the size to **188k** with ordered dithering:
+But we can reduce the size to **204k** with ordered dithering:
 ![Dithered image](./dithered.png)
